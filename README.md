@@ -23,35 +23,8 @@
 
   <br/>
 
-  <!-- SYSTEM STATUS DASHBOARD -->
-  <table align="center" width="100%" style="max-width: 600px; border-collapse: collapse; border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117; color: #c9d1d9; font-family: 'Fira Code', monospace; font-size: 12px;">
-    <tr>
-      <td align="center" style="border-right: 1px solid #30363d; padding: 10px;">
-        <b>[ SYSTEM ]</b><br/>
-        <span style="color: #00FF41;">● ONLINE</span>
-      </td>
-      <td align="center" style="border-right: 1px solid #30363d; padding: 10px;">
-        <b>[ ENV ]</b><br/>
-        <span style="color: #58a6ff;">Linux / Termux</span>
-      </td>
-      <td align="center" style="border-right: 1px solid #30363d; padding: 10px;">
-        <b>[ RESEARCH ]</b><br/>
-        <span style="color: #d2a8ff;">ACTIVE</span>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <b>[ THREAT LEVEL ]</b><br/>
-        <span style="color: #f78166;">MINIMAL</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <div align="center">
-
-🛡️ SECURITY TOOLBOX & TECH STACK
-<!-- LANGUAGES -->
 <b>LANGUAGES</b>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
