@@ -1,576 +1,549 @@
-<!-- ============================================================ -->
-<!-- PROFILE CONFIG — CHỈNH SỬA THÔNG TIN CỦA MÀY TẠI ĐÂY        -->
-<!-- ============================================================ -->
 <!--
-  USERNAME  : YOUR_GITHUB_USERNAME
-  NAME      : MINHANH
-  ROLE      : Python Developer / Security Enthusiast
-  EMAIL     : your.email@example.com
-  WEBSITE   : https://yourwebsite.dev
-  LINKEDIN  : https://linkedin.com/in/yourprofile
-  TELEGRAM  : https://t.me/yourhandle
-  DISCORD   : yourtag#0000
-  LOCATION  : Vietnam
+  ╔══════════════════════════════════════════════════════════╗
+  ║  CYBERSECURITY PROFILE :: GitHub README                  ║
+  ║  Author: Your Name                                       ║
+  ║  Style : Terminal / HUD / Security Researcher            ║
+  ╚══════════════════════════════════════════════════════════╝
+
+  ┌──────────────────────────────────────────────────────┐
+  │  PROFILE CONFIG — edit before publishing             │
+  ├──────────────────────────────────────────────────────┤
+  │  USERNAME : YOUR_GITHUB_USERNAME                     │
+  │  NAME     : YOUR_DISPLAY_NAME                        │
+  │  EMAIL    : yourname@example.com                     │
+  │  WEBSITE  : https://yourdomain.dev                   │
+  │  LINKEDIN : https://linkedin.com/in/yourhandle       │
+  │  DISCORD  : yourname#0000                            │
+  └──────────────────────────────────────────────────────┘
+
+  HOW TO USE:
+  1. Create a new repo named exactly as your GitHub username
+  2. Paste this content into README.md
+  3. Replace every occurrence of "YOUR_GITHUB_USERNAME"
+  4. Replace placeholders in the CONFIG section
+  5. Commit & visit https://github.com/YOUR_GITHUB_USERNAME
 -->
 
-<!-- ============================================================ -->
-<!-- HERO / SYSTEM BOOT SEQUENCE                                  -->
-<!-- ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HERO SECTION :: CONNECTION BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:1a1a2e&height=180&section=header&text=SEC%20PROFILE&fontSize=56&fontColor=00ff9d&animation=fadeIn&desc=cybersecurity%20%7C%20reverse%20engineering%20%7C%20linux&descAlignY=68&descAlign=50"
+    alt="Banner"
+  />
+</p>
 
-<!-- BANNER: thay URL bên dưới bằng banner SVG/GIF của mày nếu có -->
-<!-- <img src="YOUR_CUSTOM_BANNER_URL_HERE" width="100%" /> -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=00ff9d&background=00000000&center=true&vCenter=true&multiline=true&width=720&height=90&lines=root%40profile%3A~%24+initialize+%2Fdev%2Fsecure;+%3E+verifying+identity+integrity...+%5BOK%5D;+%3E+loading+security+modules...+%5BOK%5D;+%3E+session+established.+welcome."
+    alt="Typing SVG"
+  />
+</p>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- IDENTITY SECTION :: SYSTEM STATUS PANEL                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ██████╗██╗   ██╗██████╗ ███████╗██████╗                          │
-│  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗                         │
-│  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝                         │
-│  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗                         │
-│  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║                         │
-│   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝                         │
-│                                                                     │
-│   ███████╗ █████╗ ██████╗ ███╗   ███╗                              │
-│   ██╔════╝██╔══██╗██╔══██╗████╗ ████║                              │
-│   █████╗  ███████║██████╔╝██╔████╔██║                              │
-│   ██╔══╝  ██╔══██║██╔══██╗██║╚██╔╝██║                              │
-│   ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║                              │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                              │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   [ SESSION INITIALIZED ]                                     ║
-║                                                               ║
-║   > establishing encrypted channel . . . OK                   ║
-║   > verifying identity . . . . . . . OK                       ║
-║   > loading operator profile . . . . OK                       ║
-║   > mounting /dev/curiosity . . . . . OK                      ║
-║                                                               ║
-║   OPERATOR : MINHANH                                          ║
-║   ROLE     : Python Developer / Security Enthusiast           ║
-║   STATUS   : ██ ONLINE ██                                     ║
-║   CLEARANCE: PUBLIC                                           ║
-║                                                               ║
-║   ████████████████████████████████████░░░  92%                ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=80&lines=%3E+whoami+%7C%7C+cat+%2Fetc%2Fidentity;%3E+Python+Developer+//+Security+Enthusiast+//+Linux+Native;%3E+exploring+the+space+between+code+and+security" alt="Typing terminal" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff9c&style=for-the-badge&label=CONNECTIONS+LOGGED" alt="Profile views" />
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!-- IDENTITY                                                     -->
-<!-- ============================================================ -->
-
-## `0x00` ── IDENTITY
-
-```
-┌──[ minhanh@github ]──[ ~/identity ]
-│
-├─$ cat /etc/passwd | grep operator
-│
-│   ┌─────────────┬────────────────────────────────────────────┐
-│   │ FIELD       │ VALUE                                      │
-│   ├─────────────┼────────────────────────────────────────────┤
-│   │ HANDLE      │ minhanh                                    │
-│   │ ROLE        │ Python Developer / Security Enthusiast     │
-│   │ PLATFORM    │ Linux / Termux                             │
-│   │ SHELL       │ bash / zsh                                 │
-│   │ EDITOR      │ neovim / geany                             │
-│   │ TIMEZONE    │ UTC+7                                      │
-│   │ STATUS      │ building, breaking, learning               │
-│   └─────────────┴────────────────────────────────────────────┘
-│
-├─$ uname -a
-│   Linux minhanh 6.x.x-generic #1 SMP x86_64 GNU/Linux
-│
-└─$ _
-```
-
----
-
-<!-- ============================================================ -->
-<!-- ABOUT / MISSION                                              -->
-<!-- ============================================================ -->
-
-## `0x01` ── ABOUT
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  MISSION BRIEF                                              │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  > Writing Python tools that automate the boring parts      │
-│    of security workflows.                                   │
-│                                                             │
-│  > Exploring Linux internals, networking, and how           │
-│    systems break under unexpected input.                    │
-│                                                             │
-│  > Interested in reverse engineering, OSINT, and            │
-│    security automation — currently learning, always         │
-│    building.                                                │
-│                                                             │
-│  > Believer in open source, clean commits, and              │
-│    reading man pages before asking questions.               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ============================================================ -->
-<!-- SECURITY FOCUS                                               -->
-<!-- ============================================================ -->
-
-## `0x02` ── SECURITY PROFILE
-
-<div align="center">
-
-```
+<pre align="center">
 ╔══════════════════════════════════════════════════════════╗
-║              SECURITY INTEREST MATRIX                    ║
+║  [ SYSTEM STATUS ]                                       ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  [■] Security Automation       [□] Exploit Development  ║
-║  [■] Network Analysis          [□] Red Team Operations  ║
-║  [■] Linux Internals           [□] Malware Engineering  ║
-║  [■] Python Security Tooling   [□] Cloud Security       ║
-║  [■] Reverse Engineering*      [□] Firmware Analysis    ║
-║  [■] OSINT*                    [□] Cryptography*        ║
-║  [■] Web Security*             [□] Hardware Hacking     ║
+║   USER        : YOUR_DISPLAY_NAME                        ║
+║   HANDLE      : YOUR_GITHUB_USERNAME                     ║
+║   CLASS       : Developer  ::  Security Enthusiast       ║
+║   ENV         : Linux  /  Termux  /  macOS               ║
+║   MODE        : research  ::  build  ::  automate        ║
+║   UPTIME      : <code>$(uptime -p)</code>                            ║
+║   THREAT LVL  : LOW                                      ║
+║   CONNECTION  : SECURE / TLS 1.3                         ║
 ║                                                          ║
-║  [■] = actively exploring / building                     ║
-║  [□] = future interest                                   ║
-║  [*] = early-stage learning                              ║
+║   ██████████████████████████████████████████   100%      ║
+║   identity verified — session active                     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SESSION%20CONNECTIONS&color=00ff9d&style=for-the-badge&abbrev=false" alt="Profile views" />
+</p>
 
-> **Note:** All items above reflect current learning interests and self-study directions. They are not claims of professional certification or operational experience.
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TERMINAL SECTION :: FAKE CLI                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
----
+## 01 :: `whoami`
 
-<!-- ============================================================ -->
-<!-- TECH STACK                                                   -->
-<!-- ============================================================ -->
+<pre>
+┌──(YOUR_DISPLAY_NAME㉿profile)-[~/identity]
+└─$ ./inspect.sh
 
-## `0x03` ── TECH STACK
+┌─[ IDENTITY ]───────────────────────────────────────────────────────┐
+│                                                                     │
+│   name      : YOUR_DISPLAY_NAME                                     │
+│   alias     : YOUR_GITHUB_USERNAME                                  │
+│   role      : Python Developer  ::  Security Enthusiast             │
+│   focus     : automation · reverse engineering · linux internals    │
+│   platform  : Debian-based · Termux · WSL                           │
+│   status    : building, learning, shipping                          │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 
-### Languages
+┌──(YOUR_DISPLAY_NAME㉿profile)-[~/identity]
+└─$ cat /etc/motd
 
-<div align="center">
+> i don't claim to be an expert.
+> i claim to keep digging until the machine answers.
+> currently exploring security through the lens of python + linux.
+>
+> [ press any key to continue... ]
+</pre>
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,html,css&theme=dark" alt="Languages" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ABOUT SECTION :: MISSION STATEMENT                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</div>
+## 02 :: `/dev/about`
 
-```
-SELF-ASSESSED PROFICIENCY (learning level, not certification)
-──────────────────────────────────────────────────────────────
+> A developer who believes the best way to understand a system is to read its source, break it apart, and rebuild it cleanly.
+>
+> I'm interested in how software behaves under the hood — from python bytecode to ELF headers, from TCP handshakes to syscalls. Currently exploring the intersection of **automation, security research, and tooling**.
 
-Python               ████████░░  building tools daily
-Bash / Shell         ███████░░░  automation & scripting
-C / C++              ████░░░░░░  exploring low-level concepts
-JavaScript           █████░░░░░  web tooling & scripting
-HTML / CSS           ████░░░░░░  functional, not primary
-```
-
-### Security Domains
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,docker,nginx&theme=dark" alt="Security & Systems" />
-
-</div>
-
-```
-DOMAIN EXPOSURE (self-assessed, ongoing learning)
-──────────────────────────────────────────────────────────────
-
-Linux Administration   ██████░░░░  daily driver, comfortable
-Networking Fundamentals█████░░░░░  studying TCP/IP, DNS, HTTP
-Web Security           ████░░░░░░  learning OWASP, testing
-Reverse Engineering    ███░░░░░░░  early exploration (Ghidra)
-OSINT                  ████░░░░░░  curious, methodical
-Security Automation    ██████░░░░  Python-based tooling
-Digital Forensics      ███░░░░░░░  introductory level
-Cryptography           ███░░░░░░░  fundamentals stage
-```
-
-### Tools & Environment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,neovim,vim,docker,kali,vscode&theme=dark" alt="Tools" />
-
-</div>
-
-```
-TOOLBOX STATUS
-──────────────────────────────────────────────────────────────
-
-Git / GitHub           ████████░░  daily workflow
-Neovim / Vim           ███████░░░  primary editor
-Termux                 ██████░░░░  mobile lab
-Docker                 █████░░░░░  containerized experiments
-Wireshark              ████░░░░░░  network analysis practice
-Nmap                   █████░░░░░  recon & enumeration
-Ghidra / Radare2       ███░░░░░░░  reverse engineering study
-Burp Suite             ███░░░░░░░  web security learning
-Metasploit             ███░░░░░░░  CTF & lab environment
-```
-
----
-
-<!-- ============================================================ -->
-<!-- SECURITY TOOLBOX                                             -->
-<!-- ============================================================ -->
-
-## `0x04` ── SECURITY TOOLBOX
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  SEC_TOOLBOX v0.1 — learning environment                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  [ RECON ]          nmap · whois · dig · sublist3r*             │
-│  [ NETWORK ]        wireshark · tcpdump · netcat                │
-│  [ WEB ]            burp suite* · ffuf* · sqlmap*               │
-│  [ REVERSE ]        ghidra* · radare2* · gdb                    │
-│  [ FORENSICS ]      binwalk* · exiftool* · volatility*          │
-│  [ AUTOMATION ]     python · bash · cron                        │
-│  [ OSINT ]          maltego* · shodan* · theharvester*          │
-│  [ LINUX ]          kali · arch · termux · tmux                 │
-│                                                                 │
-│  [*] = currently learning / experimental                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ============================================================ -->
-<!-- PROJECT LAB                                                  -->
-<!-- ============================================================ -->
-
-## `0x05` ── PROJECT LAB
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│  PROJECT_LAB — active builds & experiments                     │
-└────────────────────────────────────────────────────────────────┘
-```
-
-<!-- PROJECT CARD TEMPLATE — duplicate this block for each project -->
-<!-- Replace placeholder values with real project info            -->
-
-<table>
-<tr>
-<td width="50%">
-
-**📂 `project-name-01`**
-
-> Short description of what this project does.
-
-```
-Stack   : Python, Bash
-Status  : 🟡 In Progress
-Focus   : Security Automation
-```
-
-[![Repository](https://img.shields.io/badge/REPO-GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff9c)](https://github.com/YOUR_GITHUB_USERNAME/project-name-01)
-
-</td>
-<td width="50%">
-
-**📂 `project-name-02`**
-
-> Short description of what this project does.
-
-```
-Stack   : Python, Linux
-Status  : 🟢 Active
-Focus   : Network Analysis
-```
-
-[![Repository](https://img.shields.io/badge/REPO-GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff9c)](https://github.com/YOUR_GITHUB_USERNAME/project-name-02)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📂 `project-name-03`**
-
-> Short description of what this project does.
-
-```
-Stack   : C, Assembly
-Status  : 🔵 Planning
-Focus   : Reverse Engineering
-```
-
-[![Repository](https://img.shields.io/badge/REPO-GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff9c)](https://github.com/YOUR_GITHUB_USERNAME/project-name-03)
-
-</td>
-<td width="50%">
-
-**📂 `project-name-04`**
-
-> Short description of what this project does.
-
-```
-Stack   : Python, Docker
-Status  : 🟡 In Progress
-Focus   : OSINT Automation
-```
-
-[![Repository](https://img.shields.io/badge/REPO-GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff9c)](https://github.com/YOUR_GITHUB_USERNAME/project-name-04)
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>🔍 RESEARCH</b><br/>
+      <sub>reverse engineering · internals</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🛠️ BUILD</b><br/>
+      <sub>tools · automation · scripts</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>📚 LEARN</b><br/>
+      <sub>linux · networking · crypto</sub>
+    </td>
+  </tr>
 </table>
 
-<!-- END PROJECT CARD TEMPLATE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SECURITY FOCUS                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
----
+## 03 :: `security.profile`
 
-<!-- ============================================================ -->
-<!-- GITHUB STATISTICS                                            -->
-<!-- ============================================================ -->
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║               SECURITY INTEREST MATRIX                   ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [ ] penetration testing (professional)                  ║
+║  [ ] bug bounty hunting (professional)                   ║
+║  [✓] python security tooling           :: learning       ║
+║  [✓] linux internals & hardening       :: exploring      ║
+║  [✓] reverse engineering (ELF / PE)    :: exploring      ║
+║  [✓] networking & packet analysis      :: practicing     ║
+║  [✓] osint techniques                  :: learning       ║
+║  [✓] cryptography fundamentals         :: studying       ║
+║  [✓] malware analysis basics           :: curious        ║
+║  [✓] web application security          :: learning       ║
+║  [✓] security automation & scripting   :: building       ║
+║                                                          ║
+║  STATUS : student of the craft — not a professional      ║
+║  ETHIC  : responsible disclosure · white hat · ethical   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 
-## `0x06` ── GITHUB TELEMETRY
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TECH STACK                                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+## 04 :: `stack.dump`
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+### Languages — self-assessed
 
-<br>
+<pre>
+python       ████████████████████░░░░░░░░░░  advanced    [primary]
+bash         ████████████████░░░░░░░░░░░░░░  solid       [daily]
+c / cpp      ██████████░░░░░░░░░░░░░░░░░░░░  reading     [learning]
+javascript   ████████░░░░░░░░░░░░░░░░░░░░░░  functional  [occasional]
+go           ███████░░░░░░░░░░░░░░░░░░░░░░░  learning    [curious]
+rust         █████░░░░░░░░░░░░░░░░░░░░░░░░░  exploring   [curious]
+</pre>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=ff6b6b&currStreakLabel=00ff9c" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,go,rust,html,css&theme=dark&perline=9" alt="Languages" />
+</p>
 
-<br>
+### Security & Systems
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=icloud&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=letsencrypt&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=google&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff9d" />
+</p>
 
-</div>
+### Tools — environment
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=nasa&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff9d" />
+</p>
 
-<!-- ============================================================ -->
-<!-- ACTIVITY MATRIX / CONTRIBUTION GRAPH                         -->
-<!-- ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SECURITY TOOLBOX                                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## `0x07` ── ACTIVITY MATRIX
+## 05 :: `security.toolbox`
 
-```
-SIGNAL INTERCEPT — CONTRIBUTION FREQUENCY
-─────────────────────────────────────────────────────────────
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-░░░▒▒▒▓▓▓███▓▓▓▒▒▒░░░▒▒▒▓▓▓███▓▓▓▒▒▒░░░
+**[RECON]**
+- `nmap`
+- `theHarvester`
+- `subfinder`
+- `dnsrecon`
 
-LOW ─────────────────────────────── HIGH
-```
+</td>
+    <td valign="top" width="33%">
 
-<div align="center">
+**[WEB]**
+- `Burp Suite`
+- `OWASP ZAP`
+- `sqlmap` *(study only)*
+- `ffuf`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</td>
+    <td valign="top" width="33%">
 
-<br>
+**[REVERSE]**
+- `Ghidra`
+- `radare2`
+- `GDB`
+- `objdump`
 
-<!-- OPTIONAL: Contribution Snake — enable via GitHub Action -->
-<!-- See: https://github.com/Platane/snk                    -->
-<!-- <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> -->
+</td>
+  </tr>
+  <tr>
+    <td valign="top">
 
-</div>
+**[NETWORK]**
+- `Wireshark`
+- `tcpdump`
+- `scapy`
+- `netcat`
 
----
+</td>
+    <td valign="top">
 
-<!-- ============================================================ -->
-<!-- SECURITY DASHBOARD                                           -->
-<!-- ============================================================ -->
+**[FORENSICS]**
+- `volatility` *(learning)*
+- `autopsy` *(exploring)*
+- `binwalk`
+- `exiftool`
 
-## `0x08` ── SECURITY DASHBOARD
+</td>
+    <td valign="top">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                  OPERATOR DASHBOARD                       ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  SYSTEM STATUS                                            ║
-║  ├── Development ......... [██████████] ACTIVE            ║
-║  ├── Research ............ [██████░░░░] ACTIVE            ║
-║  ├── Automation .......... [████████░░] ACTIVE            ║
-║  ├── Linux Lab ........... [██████████] ACTIVE            ║
-║  └── Sleep Schedule ...... [█░░░░░░░░░░] CRITICAL          ║
-║                                                           ║
-║  CURRENT FOCUS                                            ║
-║  ├── Python security tooling                              ║
-║  ├── Network protocol analysis                            ║
-║  └── Reverse engineering fundamentals                     ║
-║                                                           ║
-║  LAST SYNC: 2026-09-14                                    ║
-║  UPTIME: since first commit                               ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+**[AUTOMATION]**
+- `python`
+- `bash`
+- `ansible` *(learning)*
+- `cron`
 
----
+</td>
+  </tr>
+  <tr>
+    <td valign="top">
 
-<!-- ============================================================ -->
-<!-- CURRENTLY LEARNING                                           -->
-<!-- ============================================================ -->
+**[OSINT]**
+- `shodan` *(academic)*
+- `maltego` *(learning)*
+- `theHarvester`
+- `recon-ng`
 
-## `0x09` ── CURRENTLY LEARNING
+</td>
+    <td valign="top">
 
-```
-LEARNING PIPELINE — self-assessed progress, not certification
-──────────────────────────────────────────────────────────────
+**[LINUX]**
+- `strace`
+- `ltrace`
+- `systemd`
+- `auditd`
 
-Python Internals         ████████░░  [deep dive: CPython, AST, bytecode]
-Linux Internals          ██████░░░░  [kernel modules, syscalls, /proc]
-Networking               ██████░░░░  [TCP/IP, DNS, HTTP, TLS]
-Reverse Engineering      ████░░░░░░  [Ghidra, x86 assembly, ELF format]
-Web Security             █████░░░░░  [OWASP Top 10, Burp Suite]
-Security Automation      ███████░░░  [Python tooling, CI/CD pipelines]
-Digital Forensics        ███░░░░░░░  [disk images, memory analysis]
-Cryptography             ███░░░░░░░  [symmetric/asymmetric, hashing]
-```
+</td>
+    <td valign="top">
 
----
+**[CRYPTO]**
+- `openssl`
+- `gpg`
+- `hashcat` *(study)*
+- `john` *(study)*
 
-<!-- ============================================================ -->
-<!-- RESEARCH LOG                                                 -->
-<!-- ============================================================ -->
+</td>
+  </tr>
+</table>
 
-## `0x0A` ── RESEARCH LOG
+<sub>*tools listed = currently studying or actively using — not a claim of mastery*</sub>
 
-```
-┌──[ minhanh@lab ]──[ ~/research ]
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROJECT LAB                                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 06 :: `project.lab`
+
+<pre>
+┌───────────────────── PROJECT LAB ─────────────────────┐
+│                                                       │
+│  [001] PROJECT_NAME_1                                 │
+│       ├── purpose : security automation utility       │
+│       ├── stack   : python · bash · docker            │
+│       ├── status  : 🟢 active development             │
+│       └── link    : github.com/YOUR_GITHUB_USERNAME/REPO1 │
+│                                                       │
+│  [002] PROJECT_NAME_2                                 │
+│       ├── purpose : learning exercise / poc           │
+│       ├── stack   : c · linux syscalls                │
+│       ├── status  : 🟡 wip                            │
+│       └── link    : github.com/YOUR_GITHUB_USERNAME/REPO2 │
+│                                                       │
+│  [003] PROJECT_NAME_3                                 │
+│       ├── purpose : osint / recon script              │
+│       ├── stack   : python · api · cli                │
+│       ├── status  : 🟢 stable                         │
+│       └── link    : github.com/YOUR_GITHUB_USERNAME/REPO3 │
+│                                                       │
+│  [ ... ] replace placeholders with your real repos    │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+</pre>
+
+> **Note:** Projects listed are personal / educational. Not professional engagements.
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATISTICS                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 07 :: `github.stats`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff9d&icon_color=00ff9d&text_color=e0e0e0&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff9d&text_color=e0e0e0&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d0d0d&stroke=00ff9d&ring=00ff9d&fire=ff2e63&currStreakLabel=00ff9d"
+    alt="Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&column=5&row=1&margin-w=10"
+    alt="Trophies"
+  />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION MATRIX                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 08 :: `activity.matrix`
+
+<pre>
+░ ░ ▒ ▒ ▓ ▓ █ █ ▓ ▒ ░ ░ ▒ ▓ █ ░ ░ ▒ ▓ █
+LOW ACTIVITY ─────────────────────────── HIGH ACTIVITY
+</pre>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d0d0d&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true&custom_title=commit_stream.log"
+    alt="Activity Graph"
+  />
+</p>
+
+<!-- OPTIONAL: Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+-->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY LEARNING                                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 09 :: `learning.queue`
+
+<pre>
+┌─────────────────────────────────────────────────────┐
+│  SUBJECT               │  PROGRESS   │  ETA        │
+├─────────────────────────────────────────────────────┤
+│  linux kernel basics   │  ██████░░░  │  ongoing    │
+│  tcp/ip deep dive      │  █████░░░░  │  ongoing    │
+│  x86_64 asm            │  ████░░░░░  │  ongoing    │
+│  python internals      │  ██████░░░  │  ongoing    │
+│  cryptography math     │  ███░░░░░░  │  ongoing    │
+│  malware analysis      │  ██░░░░░░░  │  long-term  │
+│  binary exploitation   │  ██░░░░░░░  │  long-term  │
+└─────────────────────────────────────────────────────┘
+  all bars = self-assessed, not certification levels
+</pre>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- RESEARCH LOG                                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 10 :: `research.log`
+
+<pre>
+┌──[ research.log ]──[ /var/log/study ]
 │
-├─$ cat research_log.txt
+│ [0x01] 2026-09-14  reading "Linux Device Drivers" ch. 4
+│ [0x02] 2026-09-11  building a small python fuzzer
+│ [0x03] 2026-09-08  tracing syscalls with strace + ltrace
+│ [0x04] 2026-09-05  exploring ELF format, section headers
+│ [0x05] 2026-09-02  writing a basic tcp sniffer in scapy
+│ [0x06] 2026-08-29  reversing a crackme (level 1)
+│ [0x07] 2026-08-25  studying AES-CBC vs AES-GCM
+│ [0x08] 2026-08-22  learning gdb scripting
 │
-│   [ENTRY 001] Python internals & bytecode analysis
-│   [ENTRY 002] Linux process management & syscalls
-│   [ENTRY 003] Security automation with Python
-│   [ENTRY 004] Network packet analysis & protocol study
-│   [ENTRY 005] Reverse engineering: ELF binaries & x86
-│   [ENTRY 006] OSINT methodology & tool evaluation
-│   [ENTRY 007] Web application security fundamentals
+└── $ tail -f /var/log/study
+    waiting for new entries... _
+</pre>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SECURITY DASHBOARD                                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 11 :: `security.dashboard`
+
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                  SECURITY DASHBOARD                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   SYSTEM STATE     : ONLINE                              ║
+║   DEV ENVIRONMENT  : ACTIVE                              ║
+║   RESEARCH MODE    : ACTIVE                              ║
+║   AUTOMATION STACK : ACTIVE                              ║
+║   LINUX SESSION    : ACTIVE                              ║
+║   NETWORK CONN.    : SECURE                              ║
+║   FIREWALL         : ENABLED                             ║
+║   LAST AUDIT       : $(date +%Y-%m-%d)                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- RANDOM / UNIQUE :: PACKETS + HEX                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 12 :: `packet.stream`
+
+<pre>
+00:00:00.000000 IP 192.168.1.10.4242 > 10.0.0.1.80: Flags [S], seq 0x41414141
+00:00:00.000120 IP 10.0.0.1.80 > 192.168.1.10.4242: Flags [S.], seq 0xdeadbeef
+00:00:00.000340 IP 192.168.1.10.4242 > 10.0.0.1.80: Flags [.], ack 1
+00:00:00.000560 IP 192.168.1.10.4242 > 10.0.0.1.80: Flags [P.], seq 1:42
+    48 45 4c 4c 4f 2c 20 53 45 43 55 52 45 20 57 4f  HELLO, SECURE WO
+    52 4c 44 0a                                      RLD.
+00:00:00.000780 IP 10.0.0.1.80 > 192.168.1.10.4242: Flags [.], ack 42
+</pre>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONTACT / UPLINK                                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 13 :: `uplink.sh`
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub" />
+  </a>
+  <a href="mailto:yourname@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-yourname@example.com-000000?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourhandle">
+    <img src="https://img.shields.io/badge/LINKEDIN-yourhandle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://yourdomain.dev">
+    <img src="https://img.shields.io/badge/WEBSITE-yourdomain.dev-000000?style=for-the-badge&logo=firefox&logoColor=00ff9d" alt="Website" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/DISCORD-yourname%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<pre align="center">
+┌─[ uplink established ]─[ secure channel ]
 │
-├─$ tail -1 research_log.txt
-│   [ENTRY 008] ████ CLASSIFIED — just kidding, still learning
+│  $ ssh yourname@yourdomain.dev
+│  $ nc -vlnp 1337
+│  $ mail -s "hello" yourname@example.com
 │
-└─$ _
-```
+└─ $ _
+</pre>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOOTER :: SESSION CLOSED                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ============================================================ -->
-<!-- GITHUB TROPHIES                                              -->
-<!-- ============================================================ -->
+## 14 :: `session.close`
 
-## `0x0B` ── ACHIEVEMENT UNLOCKS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&column=4&row=1&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!-- CONTACT / UPLINK                                             -->
-<!-- ============================================================ -->
-
-## `0x0C` ── UPLINK / CONTACT
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ESTABLISH CONNECTION                                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Select a channel:                                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub" />
-</a>
-
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-your.email@example.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-YOUR__PROFILE-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" />
-</a>
-
-<a href="https://yourwebsite.dev">
-  <img src="https://img.shields.io/badge/WEBSITE-yourwebsite.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00ff9c" alt="Website" />
-</a>
-
-<a href="https://t.me/YOUR_TELEGRAM">
-  <img src="https://img.shields.io/badge/TELEGRAM-YOUR__HANDLE-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff9c" alt="Telegram" />
-</a>
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!-- FOOTER                                                       -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-```
-─────────────────────────────────────────────────────────────────
-
-  $ echo "If you can read this, the session was successful."
-  > If you can read this, the session was successful.
+<pre align="center">
+───────────────────────────────────────────────────────────────
 
   $ exit
-  logout
-  Connection to github.com closed.
+  connection terminated.
 
-─────────────────────────────────────────────────────────────────
+  [ SESSION STATUS : CLOSED ]
+  [ LOGS SAVED     : /var/log/profile.visit ]
+  [ RETURN CODE    : 0 ]
 
-  [ SYSTEM STATUS: ONLINE ]
-  [ FARM STATUS: HARVESTING ]
-  [ BUG STATUS: FEATURED ]
+───────────────────────────────────────────────────────────────
 
-─────────────────────────────────────────────────────────────────
-```
+          "trust, but verify the signature."
+</pre>
 
-<br>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:0d0d0d&height=80&section=footer&text=EOF&fontSize=20&fontColor=00ff9d"
+    alt="Footer"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=40&section=footer&text=EOF&fontSize=18&fontColor=00ff9c" alt="EOF" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HIDDEN SECTION :: SEO / METADATA (invisible)               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</div>
+<!--
+KEYWORDS: cybersecurity, security researcher, reverse engineering, python developer,
+linux, ethical hacking, ctf, osint, malware analysis, automation, tooling, open source
+THEME: dark terminal, HUD, hacker aesthetic
+STATUS: student / enthusiast — NOT a professional pentester or CVE researcher
+-->
