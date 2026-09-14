@@ -21,9 +21,6 @@
                                    
   </pre>
 
-  <!-- TYPING ANIMATION -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+secure+session...;Python+Developer+%7C+Security+Enthusiast;Exploring+Reverse+Engineering+%26+Automation;Building+tools+for+digital+forensics." alt="Typing SVG" />
-
   <br/>
 
   <!-- SYSTEM STATUS DASHBOARD -->
@@ -49,27 +46,6 @@
   </table>
 </div>
 
-<br/>
-
-<!-- TERMINAL IDENTITY SECTION -->
-```text
-┌──(minhanh㉿github)-[~/profile]
-│
-├── $ cat identity.txt
-│   NAME      : MinhAnh
-│   ROLE      : Python Developer / Security Enthusiast
-│   LOCATION  : Vietnam
-│   FOCUS     : Automation, Tooling, System Internals
-│
-├── $ cat interests.txt
-│   [+] Reverse Engineering Exploration
-│   [+] Linux System Internals
-│   [+] Security Automation & Scripting
-│   [+] Network Traffic Analysis
-│   [+] Open Source Intelligence (OSINT)
-│
-└── $ _
-```
 <br/>
 
 <div align="center">
