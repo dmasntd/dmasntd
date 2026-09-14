@@ -103,35 +103,6 @@
 
 <br/>
 
-<!-- PROJECT LAB -->
-<div align="left">
-<h3 align="center">🔬 PROJECT LAB</h3>
-<p align="center"><i>Experimental tools, automation scripts, and learning projects.</i></p>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h4>📦 [PROJECT_NAME_01]</h4>
-<p><b>Purpose:</b> Automating network reconnaissance tasks.</p>
-<p><b>Stack:</b> Python, Bash, Nmap</p>
-<p><b>Status:</b> 🟢 Active Development</p>
-<p><b>Security Relevance:</b> Streamlining OSINT and initial footprinting phases.</p>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME_01"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-</td>
-<td width="50%" valign="top">
-<h4>📦 [PROJECT_NAME_02]</h4>
-<p><b>Purpose:</b> Educational tool for parsing PCAP files.</p>
-<p><b>Stack:</b> Python, Scapy</p>
-<p><b>Status:</b> 🟡 Experimental / Learning</p>
-<p><b>Security Relevance:</b> Understanding packet structures and traffic anomalies.</p>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME_02"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
 <!-- GITHUB STATISTICS -->
 <div align="center">
 <h3>📊 TELEMETRY & METRICS</h3>
@@ -159,19 +130,6 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color=00FF41&bg_color=0d1117" alt="Contribution Snake" />
 </div>
 
-<br/>
-
-<!-- RESEARCH LOG -->
-<div align="center">
-<h3>📜 RESEARCH LOG</h3>
-<pre style="font-family: 'Fira Code', monospace; font-size: 13px; color: #8b949e; background: #161b22; padding: 15px; border-radius: 6px; display: inline-block; text-align: left;">
-[LOG-01] Analyzing Python bytecode execution flow.
-[LOG-02] Documenting Linux privilege escalation vectors (Educational).
-[LOG-03] Building custom Bash scripts for log parsing.
-[LOG-04] Exploring Ghidra for basic binary static analysis.
-[LOG-05] Researching secure coding practices in web applications.
-</pre>
-</div>
 
 <br/>
 
