@@ -73,36 +73,6 @@
 
 <br/>
 
-<!-- CURRENTLY LEARNING (Self-Assessed) -->
-<div align="center">
-<h3>📡 CURRENTLY LEARNING & EXPLORING</h3>
-<table width="100%" style="max-width: 500px; font-family: monospace; font-size: 14px; color: #c9d1d9;">
-<tr>
-<td width="40%">Python Internals</td>
-<td width="60%">████████░░ 80%</td>
-</tr>
-<tr>
-<td>Linux System Architecture</td>
-<td>██████░░░░ 60%</td>
-</tr>
-<tr>
-<td>Network Protocol Analysis</td>
-<td>██████░░░░ 60%</td>
-</tr>
-<tr>
-<td>Reverse Engineering Basics</td>
-<td>████░░░░░░ 40%</td>
-</tr>
-<tr>
-<td>Security Automation</td>
-<td>███████░░░ 70%</td>
-</tr>
-</table>
-<sub><i>*Levels are self-assessed and represent current learning progress, not professional certification.</i></sub>
-</div>
-
-<br/>
-
 <!-- GITHUB STATISTICS -->
 <div align="center">
 <h3>📊 TELEMETRY & METRICS</h3>
