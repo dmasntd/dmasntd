@@ -130,39 +130,3 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color=00FF41&bg_color=0d1117" alt="Contribution Snake" />
 </div>
 
-
-<br/>
-
-<!-- CONTACT SECTION -->
-<div align="center">
-<h3>🔐 ESTABLISH CONNECTION</h3>
-<p>Open to collaboration on open-source security tools and automation projects.</p>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://your-website.com">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-</a>
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-<pre style="font-size: 10px; color: #484f58;">
-────────────────────────────────────────────────────────────
-SESSION TERMINATED
-> exit
-connection closed gracefully.
-[ SYSTEM STATUS: MONITORING ]
-────────────────────────────────────────────────────────────
-</pre>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00FF41&style=flat-square" alt="Profile Views" />
-</div>
