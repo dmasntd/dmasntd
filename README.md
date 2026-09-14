@@ -71,6 +71,7 @@
 │   [+] Open Source Intelligence (OSINT)
 │
 └── $ _
+```
 <br/>
 
 <div align="center">
