@@ -2,12 +2,9 @@
 ========================================================================
   PROFILE CONFIGURATION (EDIT THESE VALUES)
   ========================================================================
-  USERNAME    : "YOUR_GITHUB_USERNAME"
+  USERNAME    : "dmasntd"
   NAME        : "MINHANH"
   ROLE        : "Python Developer & Security Enthusiast"
-  EMAIL       : "your.email@example.com"
-  LINKEDIN    : "YOUR_LINKEDIN_ID"
-  WEBSITE     : "your-website.com"
   LOCATION    : "Vietnam"
 ========================================================================
 -->
